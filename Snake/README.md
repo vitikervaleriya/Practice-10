@@ -1,4 +1,4 @@
-"""
+
 Snake
 
 Description:
@@ -26,4 +26,4 @@ The snake is represented as a list of coordinates.
 Each move adds a new head and removes the tail.
 When the snake eats food, it grows longer.
 Every 3 foods increases the level and speed.
-"""
+

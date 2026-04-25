@@ -1,4 +1,4 @@
-"""
+
 This project contains three simple games created using Python and pygame.
 
 1. Racer Game
@@ -21,4 +21,3 @@ Features:
 - Eraser for removing parts of the drawing
 - Ability to draw shapes
 
-"""

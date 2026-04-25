@@ -1,4 +1,4 @@
-"""
+
 Racer
 
 Description:
@@ -27,4 +27,3 @@ How the Game Works:
 - Each avoided enemy increases score
 - Collision with enemy ends the game
 
-"""

@@ -1,4 +1,4 @@
-"""
+
 Paint
 
 Description:
@@ -24,5 +24,3 @@ How it works:
 - Canvas stores all drawings
 - Canvas is displayed on the screen every frame
 - Screen updates using pygame.display.flip()
-
-"""
